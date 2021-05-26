@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author nick
+ * @author nick, 2021
  */
 public class WordReverse {
 
